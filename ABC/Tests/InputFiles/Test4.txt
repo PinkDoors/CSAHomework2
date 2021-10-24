@@ -1,0 +1,44 @@
+7
+3 3 ABC
+5
+A H
+B S
+C E
+H A
+S B
+3 0
+5
+A H
+B S
+C E
+H A
+S B
+3 5 (ಠ_ಠ)
+5
+D A
+I L
+S I
+C V
+O E
+2 4 2021
+4
+2 1
+0 9
+2 7
+1 0
+2 4 Something
+0
+2 9 aBcDeFgHi
+9
+a 1
+B 2
+c 3
+D 4
+e 5
+F 6
+g 7
+H 8
+i 9
+1 6 bxbkhb
+1
+

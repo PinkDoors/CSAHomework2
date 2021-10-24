@@ -1,0 +1,15 @@
+3
+
+3 6 ABABAC
+2
+A s
+B t
+
+2 6 ABABAC
+2
+A 3
+B 5
+
+1 6 ABABAC
+48
+

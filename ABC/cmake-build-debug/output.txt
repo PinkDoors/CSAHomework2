@@ -1,0 +1,4 @@
+Filled container:
+Container contains 1 elements.
+0: Input string = .
+The quotient of dividing the sum ofthe codes of an unencryptedstring by the number of characters inthis string = 0.
