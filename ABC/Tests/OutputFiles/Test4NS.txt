@@ -1,0 +1,44 @@
+Filled container:
+Container contains 7 elements.
+----------------------------------------------------
+0: Input string = ABC.
+
+The quotient of dividing the sum of the codes of an unencrypted string by the number of characters in this string = 66.
+
+Result of the encryption: HSE.
+----------------------------------------------------
+1: Input string = .
+
+The quotient of dividing the sum of the codes of an unencrypted string by the number of characters in this string = 0.
+
+Result of the encryption: .
+----------------------------------------------------
+2: Input string = (เฒ _.
+
+The quotient of dividing the sum of the codes of an unencrypted string by the number of characters in this string = -14.2.
+
+Result of the encryption: อออออ.
+----------------------------------------------------
+3: Input string = 2021.
+
+The quotient of dividing the sum of the codes of an unencrypted string by the number of characters in this string = 49.25.
+
+Result of the encryption: 7970.
+----------------------------------------------------
+4: Input string = Some.
+
+The quotient of dividing the sum of the codes of an unencrypted string by the number of characters in this string = 101.
+
+Result of the encryption: 0000.
+----------------------------------------------------
+5: Input string = aBcDeFgHi.
+
+The quotient of dividing the sum of the codes of an unencrypted string by the number of characters in this string = 86.7778.
+
+Result of the encryption: 123456789.
+----------------------------------------------------
+6: Input string = bxbkhb.
+
+The quotient of dividing the sum of the codes of an unencrypted string by the number of characters in this string = 104.167.
+
+Result of the encryption: cyclic.

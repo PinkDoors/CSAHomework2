@@ -1,0 +1,8 @@
+Filled container:
+Container contains 1 elements.
+----------------------------------------------------
+0: Input string = NotIn.
+
+The quotient of dividing the sum of the codes of an unencrypted string by the number of characters in this string = 97.6.
+
+Result of the encryption: 00000.
